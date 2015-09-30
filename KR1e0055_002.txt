@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀春秋編
-#+DATE: 2015-09-23 09:39:53
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:14:42.866897
+#+PROPERTY: ID KR1e0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0055_WYG_002-1a>¶
 欽定四庫全書¶
 　讀春秋編卷二　　　　　　宋　陳深　撰¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　讀春秋編卷二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀春秋編
-#+DATE: 2015-09-23 09:39:53
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:14:42.884343
+#+PROPERTY: ID KR1e0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0055_WYG_003-1a>¶
 欽定四庫全書¶
 　讀春秋編卷三　　　　　　宋　陳深　撰¶
@@ -596,4 +598,3 @@
 　¶
 　¶
 　讀春秋編卷三¶
-
